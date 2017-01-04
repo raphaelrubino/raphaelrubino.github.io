@@ -22,11 +22,7 @@ h1{
 	padding: 2px;
 }
 
-h2{
-	font-size: 1.1em;
-}
-
-h3{
+h2, h3{
 	font-size: 1.1em;
 }
 
@@ -75,7 +71,7 @@ details figure{
 }
 
 details figure img{
-    height: 130px;
+	height: 130px;
 	box-shadow: 1px 1px 3px #888;
 	opacity: 0.8;
 }
@@ -112,4 +108,3 @@ main section{
 	box-shadow: 2px 2px 4px #ddd;
 	margin: 2%;
 }
-
